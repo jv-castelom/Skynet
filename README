@@ -1,3 +1,6 @@
+Skynet is a botnet implemented in python using pycrypto.
+The bots can change information with others, using assymetric cryptography to change keys and symmetric cipher to send messages.
+
 Welcome to SkyNet
 =================
 
